@@ -1,0 +1,11 @@
+Package: lab04
+Title: Linear Regression Model in R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Fatemeh", "Sharifiasl", , "sharifiasl.fateme@yahoo.com", role = c("aut", "cre"))
+    person("Samira","Goudarzi", , "samira.goudarzi@gmail.com", role = c("aut", "cre"))
+Description: This package uses OOP consepts to estimate linear regression model using ordinary least square method.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
